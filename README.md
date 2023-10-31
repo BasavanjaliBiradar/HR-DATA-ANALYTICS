@@ -1,6 +1,6 @@
 # HR-DATA-ANALYTICS
 
-The HR Data Analytics project on GitHub is a comprehensive analysis of employee attrition within an organization. Using Power BI, it focuses on identifying patterns and trends that contribute to turnover. The project involves cleaning and analyzing a dataset of HR KPIs, such as performance tracking and attrition rate, to provide valuable insights for HR decision-making.
+The HR Data Analytics project is a comprehensive analysis of employee attrition within an organization. Using Power BI, it focuses on identifying patterns and trends that contribute to turnover. The project involves cleaning and analyzing a dataset of HR KPIs, such as performance tracking and attrition rate, to provide valuable insights for HR decision-making.
 
 # Worked on !
 - Data Cleaning & Processing in Power BI
